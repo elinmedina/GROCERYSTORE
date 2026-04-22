@@ -8,3 +8,13 @@ A Java application through IntelliJ IDEA CE, that calculates purchase totals and
    - How much is it?
    - How many will you be getting?
 3. Your data is now saved in a .txt file.
+
+
+
+
+
+
+
+
+# Collaboration Acknowledgement
+This project was reviewed and edited by TheBoople on GitHub.
